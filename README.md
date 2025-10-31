@@ -16,7 +16,7 @@ A beautiful **real-time weather app** built with **React + Vite** that dynamical
 
 ## 🖼️ Demo Video
 
-🎥 **[Watch Demo](https://your-video-link-here.com)**  
+🎥 **[Watch Demo](https://weather-mvqeolopj-tannu-kumaris-projects-9ad7fbca.vercel.app)**  
 
 
 ---
